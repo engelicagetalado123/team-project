@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello GitHub! 
+=======
+"hello world" 
+>>>>>>> 6c4483277e99bba019c6877c666326bc84b57379
